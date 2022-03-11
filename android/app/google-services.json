@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "694841152373",
+    "project_id": "leap-coffee-shop",
+    "storage_bucket": "leap-coffee-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694841152373:android:89d6213e48c70997e6393c",
+        "android_client_info": {
+          "package_name": "com.coffeemobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694841152373-stkfomkj7rh884s24lgoe36ovsnl7h6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxSTttGF-2Df5D96ifysgkLRRQpcwYcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694841152373-stkfomkj7rh884s24lgoe36ovsnl7h6k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694841152373-ll190qaeaase1d91mb99g96n6n0g8ro3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.coffeemobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
